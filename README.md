@@ -2,7 +2,7 @@
 
 An interactive, single-file mind map exploring **leadership development** and **talent development**, organized into three main branches.
 
-**Live demo:** https://YOUR-USERNAME.github.io/leadership-talent-development-mind-map/
+**Live demo:** https://emmanuelbinen.github.io/Talent-Development-Mind-Map/
 
 ---
 
